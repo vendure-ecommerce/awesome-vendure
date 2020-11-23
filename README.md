@@ -7,7 +7,8 @@ Vendure is a headless GraphQL e-commerce framework for the modern web.
 ## Contents
 - [Official Resources](#official-resources)
 - [Community](#community)
-- [Mentions of Vendure](#mentions-of-vendure)
+- [Articles](#articles)
+- [Tutorials](#tutorials)
 - [Plugins](#plugins)
 - [Built with Vendure](#built-with-vendure)
 
@@ -24,11 +25,16 @@ Vendure is a headless GraphQL e-commerce framework for the modern web.
 - [Slack Channel](https://join.slack.com/t/vendure-ecommerce/shared_invite/enQtNzA1NTcyMDY3NTg0LTMzZGQzNDczOWJiMTU2YjAyNWJlMzdmZGE3ZDY5Y2RjMGYxZWNlYTI4NmU4Y2Q1MDNlYzE4MzQ5ODcyYTdmMGU)
 - [Twitter](https://twitter.com/vendure_io)
 
-### Mentions of Vendure
-- [Getting Started with Vendure - LogRocket Blog](https://blog.logrocket.com/getting-started-with-vendure/)
+### Articles
 - [Monterail Open Source E-Commerce Platforms Comparison - Summer 2020](https://www.monterail.com/blog/e-commerce-platform-comparison)
+
+### Tutorials
+- [Getting Started with Vendure - LogRocket Blog](https://blog.logrocket.com/getting-started-with-vendure/)
 - [How to Setup a Vendure E-Commerce API on a Dokku Droplet](https://dev.to/oncode/how-to-setup-a-vendure-e-commerce-api-on-a-dokku-droplet-3enc/)
 - [Vendure E-Commerce on Google Cloud Run](https://martijn-brug.medium.com/vendure-ecommerce-on-google-cloud-run-225b26c8133a)
+
+### Plugins
+- TODO...
 
 ### Built with Vendure
 - [CB Made In Italy](https://cbmadeinitaly.com) - An online store for an italian luxury footwear brand. Built using Vendure + Vue Storefront.
