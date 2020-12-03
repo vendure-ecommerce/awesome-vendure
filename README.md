@@ -40,3 +40,4 @@ Vendure is a headless GraphQL e-commerce framework for the modern web.
 - [CB Made In Italy](https://cbmadeinitaly.com) - An online store for an italian luxury footwear brand. Built using Vendure + Vue Storefront.
 - [Racketworld](https://racketworld.ch) - A badminton & squash online store, based in Germany. Built using Vendure + Svelte + Sapper.
 - [Beer In Cans](https://beerincans.com) - An online store selling Czech craft beer. Built using Vendure + Angular.
+- [Marc de Fotograaf](https://shop.marcdefotograaf.nl) - Photographer selling his work online. Built using Vendure + Angular. [sourcecode](https://github.com/martijnvdbrug/shops)
