@@ -34,10 +34,12 @@ Vendure is a headless GraphQL e-commerce framework for the modern web.
 - [Vendure E-Commerce on Google Cloud Run](https://martijn-brug.medium.com/vendure-ecommerce-on-google-cloud-run-225b26c8133a)
 
 ### Plugins
-- TODO...
+- [Find plugins on GitHub](https://github.com/search?p=2&q=vendure+plugin+-user%3Avendure-ecommerce&type=Repositories)
+- [vendure-plugin-webhook](https://www.npmjs.com/package/vendure-plugin-webhook) - Trigger webhooks based on configured Vendure events.
 
 ### Built with Vendure
 - [CB Made In Italy](https://cbmadeinitaly.com) - An online store for an italian luxury footwear brand. Built using Vendure + Vue Storefront.
 - [Racketworld](https://racketworld.ch) - A badminton online store, based in Switzerland. Built using Vendure + Svelte + Sapper.
 - [Beer In Cans](https://beerincans.com) - An online store selling Czech craft beer. Built using Vendure + Angular.
 - [Marc de Fotograaf](https://shop.marcdefotograaf.nl) - Photographer selling his work online. Built using Vendure + Angular. [sourcecode](https://github.com/martijnvdbrug/shops)
+- [Artist Daniel van de Haterd](https://dvandehaterd.nl/) - Artist selling paintings online. Built with Vendure + Gridsome.[sourcecode](https://github.com/martijnvdbrug/shops)
