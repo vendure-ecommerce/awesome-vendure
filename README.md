@@ -27,6 +27,7 @@ Vendure is a headless GraphQL e-commerce framework for the modern web.
 
 ### Articles
 - [Monterail Open Source E-Commerce Platforms Comparison - Summer 2020](https://www.monterail.com/blog/e-commerce-platform-comparison)
+- [Modern e-commerce development with headless frameworks](https://www.ekreative.com/blog/modern-e-commerce-development-with-headless-frameworks/)
 
 ### Tutorials
 - [Getting Started with Vendure - LogRocket Blog](https://blog.logrocket.com/getting-started-with-vendure/)
