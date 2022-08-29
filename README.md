@@ -33,6 +33,7 @@ Vendure is a headless GraphQL e-commerce framework for the modern web.
 - [Getting Started with Vendure - LogRocket Blog](https://blog.logrocket.com/getting-started-with-vendure/)
 - [How to Setup a Vendure E-Commerce API on a Dokku Droplet](https://dev.to/oncode/how-to-setup-a-vendure-e-commerce-api-on-a-dokku-droplet-3enc/)
 - [Vendure E-Commerce on Google Cloud Run](https://martijn-brug.medium.com/vendure-ecommerce-on-google-cloud-run-225b26c8133a)
+- [Series of working with GraphQL and Vendure](https://www.youtube.com/watch?v=o0UafBL2Vb4)
 
 ### Plugins
 - [Find plugins on GitHub](https://github.com/search?p=2&q=vendure+plugin+-user%3Avendure-ecommerce&type=Repositories)
