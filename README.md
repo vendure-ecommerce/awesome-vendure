@@ -36,7 +36,7 @@ Vendure is a headless GraphQL e-commerce framework for the modern web.
 - [Series of working with GraphQL and Vendure](https://www.youtube.com/watch?v=o0UafBL2Vb4)
 
 ### Plugins
-- [Find plugins on GitHub](https://github.com/search?p=2&q=vendure+plugin+-user%3Avendure-ecommerce&type=Repositories)
+- [Find plugins on GitHub](https://github.com/search?p=1&q=vendure+plugin+-user%3Avendure-ecommerce&type=Repositories)
 - [vendure-plugin-webhook](https://www.npmjs.com/package/vendure-plugin-webhook) - Trigger webhooks based on configured Vendure events.
 
 ### Built with Vendure
